@@ -1,4 +1,4 @@
-Host: https://nometa.uz
+Host: https://nometa.kz
 
 # Allow crawling of all content
 User-agent: *
